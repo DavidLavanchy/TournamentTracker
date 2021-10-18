@@ -76,9 +76,9 @@ namespace TrackerUI
             this.createTeamLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
             this.createTeamLabel.Location = new System.Drawing.Point(24, 23);
             this.createTeamLabel.Name = "createTeamLabel";
-            this.createTeamLabel.Size = new System.Drawing.Size(213, 50);
+            this.createTeamLabel.Size = new System.Drawing.Size(221, 50);
             this.createTeamLabel.TabIndex = 14;
-            this.createTeamLabel.Text = "Create Team";
+            this.createTeamLabel.Text = "Create Team:";
             // 
             // addMemberButton
             // 
