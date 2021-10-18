@@ -14,5 +14,10 @@ namespace TrackerUI
         {
             InitializeComponent();
         }
+
+        private void CreateTeam_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
